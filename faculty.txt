@@ -1,0 +1,2 @@
+majimbu,10,wic
+kurwa,10,wic
